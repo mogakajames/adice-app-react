@@ -47,6 +47,8 @@
     opacity: 1;
     background-color: #ffffff;
     border: 1px solid rgba(22, 76, 167, 0.6);
+    height: 40px;
+    width: 200px;
   }
     
   .button span {
